@@ -1,6 +1,9 @@
 ### 👋🏼 Hola, soy Mireia 
 
-Para que me conozcan un poquito, mi nombre es Mireia y vengo del ámbito de lo social, soy integradora social y educadora social, una profesión muy bonita pero con pocas salidas laborales y con mucha rotación. Dentro de mi ámbito, trabajé con nuevas tecnologías y esto me llevó a interesarme más en la programación.
+Para que me conozcan un poquito, mi nombre es Mireia y vengo del ámbito de lo social donde tuve la oportunidad de trabajar la brecha digital y alfabetización en las nuevas tecnologías. Esto me llevó a interesarme más en este mundo y ver todas las posibilidades que hay en él, lanzándome a la gran aventura del desarrollo web.
+
+Soy una persona con gran motivación por el cambio,  sin miedo a enfrentarme a nuevos retos y seguir aprendiendo. 
+
 
 💻 ♀️
 
