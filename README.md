@@ -48,7 +48,7 @@ Si prefieres conocerme de otra manera, puedes pinchar [aquí](https://www.instag
 
 🎨 Pintar, como comentaba arriba.
 
-🐱 Tambien me encantan los animales, tengo dos gatas y un gato (iremos sumando!) 
+🐱 Tambien me encantan los animales, tengo dos gatas y un gato (iremos sumando!) ... Ya hemos sumado una gatita mas! 🤭
 
 🎲 Los juegos de mesa, me encanta quedar con amigos y pasar horas jugando a juegos de mesa (mi favorito, el carcassonne) 
 
