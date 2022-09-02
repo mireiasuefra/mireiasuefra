@@ -1,8 +1,12 @@
 # 👋🏼 Hola mundo!  
 
-Soy Mireia y soy desarrolladora frontend junior. 💻 ♀️
+Soy Mireia y soy desarrolladora frontend junior reconvertida. 💻 ♀️
 
-Vengo del ámbito de lo social, donde tuve la oportunidad de trabajar la brecha digital y alfabetización en las nuevas tecnologías. Esto me llevó a interesarme más en este mundo y ver todas las posibilidades que hay en él. No me da miedo enfrentarme a nuevos retos y siempre he estado muy ligada al mundo de la programación  por lo que me lancé a la gran aventura del desarrollo web.
+Tengo experiencia en React, Javascript, HTML, CSS y SASS, tengo conocimiento de metodologías de trabajo ágiles y buenas prácticas a la hora de programar. 
+
+Vengo del ámbito de lo social, soy educadora social e integradora social. He tenido la oportunidad de trabajar con diferentes sectores (mujeres, jóvenes, personas mayores y personas drogodependientes). Eso me ha permitido adquirir una serie de habilidades (trabajo en equipo, comunicativas, asertivas, empáticas, resolutivas, etc). Todo esto, sumado a mis años de experiencia como auxiliar administrativa, donde pude potenciar mi tolerancia a la frustración, me convierten en una persona con un perfil dinámico e interesante. 
+
+Como podéis ver, soy una persona con gran motivación por el cambio, sin miedo a enfrentarme a nuevos retos y con inquietudes por seguir aprendiendo.
 
 
 ## 🚀 Tecnologías 
