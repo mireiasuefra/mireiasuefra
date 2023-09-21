@@ -8,6 +8,10 @@ Vengo del ámbito de lo social, soy educadora social e integradora social. He te
 
 Como podéis ver, soy una persona con gran motivación por el cambio, sin miedo a enfrentarme a nuevos retos y con inquietudes por seguir aprendiendo.
 
+Mi primera experiencia laboral como desarrolladora web ha sido un paso fundamental en mi trayectoria, donde me he enfrentado a grandes retos y he podido poner en practica mi capacidad para regular mis emociones (ya que es un sector laboral nuevo para mi) y gran parte de las cosas que he ido aprendiendo desde que me embarqué en este mundo.
+
+Ahora... ¡nuevos retos! 💪🏼
+
 
 ## 🚀 Tecnologías 
 
